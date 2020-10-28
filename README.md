@@ -1,0 +1,2 @@
+# homework1028
+NTUT 108AC1023
